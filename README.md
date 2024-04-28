@@ -8,8 +8,8 @@ O propósito deste repositório é fornecer uma representação visual da organi
 
 ## Como Usar
 
-- **Diagrama:** O arquivo "Diagrama.svg" contém o diagrama da estrutura curricular. Você pode visualizá-lo diretamente no GitHub ou fazer o download para visualização offline.
-![Diagrama da Estrutura Curricular](Diagrama.svg)
+- **Diagrama:** O arquivo "Diagrama.png" contém o diagrama da estrutura curricular. Você pode visualizá-lo diretamente no GitHub ou fazer o download para visualização offline.
+![Diagrama da Estrutura Curricular](Diagrama.png)
 
 ## Contribuições
 
